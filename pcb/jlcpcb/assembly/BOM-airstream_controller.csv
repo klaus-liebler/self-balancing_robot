@@ -1,0 +1,37 @@
+Comment,Designator,Footprint,LCSC
+u1,"C13,C14,C2,C3,C6,C7,C8",C_0603_1608Metric,C14663
+1u,"C10,C9",C_0603_1608Metric,C15849
+Prog,J1,USB_C_Receptacle_HRO_TYPE-C-31-M-12,C167321
+1k,R1,R_0603_1608Metric,C21190
+k15,"R10,R9",R_0603_1608Metric,C22808
+5k1,"R2,R3,R6,R7,R8",R_0603_1608Metric,C23186
+10k,"R11,R12,R4,R5",R_0603_1608Metric,C25804
+Status,D1,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,C2843785
+MX116H,"U5,U6",SOT-23-6,C2845121
+RESET,SW1,SW_SPST_TL3342,C318884
+22u,"C1,C11,C12,C4,C5",C_0603_1608Metric,C59461
+AMS1117,U3,SOT-223-3_TabPin2,C6186
+ESP32-WROOM-32,U1,ESP32-WROOM-32,C701342
+CH340C,U2,SOIC-16_3.9x9.9mm_P1.27mm,C84681
+BC817,"Q1,Q2",SOT-23,C8512
+MountingHole,H8,MountingHole_3.2mm_M3,
+MountingHole,H7,MountingHole_3.2mm_M3,
+MountingHole,H6,MountingHole_3.2mm_M3,
+MountingHole,H5,MountingHole_3.2mm_M3,
+Mot1,J3,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,
+MountingHole,H2,MountingHole_3.2mm_M3,
+MountingHole,H4,MountingHole_3.2mm_M3,
+MountingHole,H3,MountingHole_3.2mm_M3,
+Sensor 3 C D G,J2,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,
+MountingHole,H1,MountingHole_3.2mm_M3,
+Servo I 5 G,J4,PinHeader_1x03_P2.54mm_Vertical,
+GY-521,U9,GY-521,
+Motor_DC,M1,TT-Motor,
+Mot2,J5,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,
+18650,BT1,BatteryHolder_MPD_BH-18650-PC2,
+MountingHole,H9,MountingHole_3.2mm_M3,
+ITR9608,U7,ITR9608_recessed,
+GY-521,U4,GY-521,
+Motor_DC,M2,TT-Motor,
+ITR9608,U8,ITR9608_recessed,
+4V GN GN 5V,J6,PinHeader_1x04_P2.54mm_Vertical,
